@@ -8,6 +8,7 @@ Home Task using python, django rest framework and psql according to specificatio
 
 - First make sure you have pipenv installed
 - Second clone the project any where to your pc
+- PS: Find Postman Collection at the end of this page
 
 ```bash
 git clone https://github.com/bassemmagdy/Lenmo.git
@@ -44,7 +45,6 @@ python manage.py migrate
 ```
 
 - We are there!
-- Find Postman Collection at the end of this page
 
 
 ```bash
